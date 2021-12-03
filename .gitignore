@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Inputlist from AoC
+input.lst
+input_example.lst
